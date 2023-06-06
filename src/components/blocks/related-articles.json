@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blocks_related_articles",
+  "info": {
+    "displayName": "relatedArticles"
+  },
+  "options": {},
+  "attributes": {
+    "header": {
+      "displayName": "header",
+      "type": "component",
+      "repeatable": false,
+      "component": "shared.header"
+    }
+  }
+}
